@@ -1,4 +1,4 @@
-![NEPECON Banner](https://raw.githubusercontent.com/nepeconunb/descarbonization-accounting/main/docs/images/Nepecon%20Sustainability.png)# Descarbonization Accounting  
+![NEPECON Banner](docs/images/Nepecon Sustainability.png){ width=300 } 
 
 NEPECON – Center for Studies and Research in Accounting and Socio-Environmental Sustainability (University of Brasília)
 
