@@ -1,4 +1,4 @@
-![NEPECON Banner](docs/images/Nepecon Sustainability.png){ width=300 } 
+<img src="docs/images/Nepecon Sustainability.png" width="300">
 
 NEPECON – Center for Studies and Research in Accounting and Socio-Environmental Sustainability (University of Brasília)
 
